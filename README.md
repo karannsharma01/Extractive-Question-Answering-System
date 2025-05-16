@@ -9,6 +9,7 @@ This repository contains the implementation of a Question Answering (QA) system 
 
 Question Answering is a key area in Natural Language Processing (NLP) that involves building systems capable of understanding natural language and returning precise answers. In this project, we fine-tuned **RoBERTa**—a robustly optimized variant of BERT—on the **SQuAD2.0 dataset** and a custom dataset based on movie reviews, formatted for span-based QA.
 
+![Image](https://github.com/user-attachments/assets/622842cc-9da6-45d1-9880-a0c145146d48)
 ---
 
 ## ⚙️ Approach
