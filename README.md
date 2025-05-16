@@ -1,7 +1,7 @@
 
 # ❓ Question Answering System using RoBERTa
 
-This repository contains the implementation of a Question Answering (QA) system developed as part of a summer internship project at **NIT Hamirpur**, focusing on fine-tuning transformer-based models for extractive QA tasks. The project explores state-of-the-art NLP techniques to build a system that can accurately extract answers to questions from given contexts.
+This repository contains the implementation of a Question Answering (QA) system developed as Machine Learning Intern at **NIT Hamirpur**, focusing on fine-tuning transformer-based models for extractive QA tasks. The project explores state-of-the-art NLP techniques to build a system that can accurately extract answers to questions from given contexts.
 
 ---
 
@@ -51,16 +51,9 @@ We followed a detailed and modular pipeline to implement and evaluate the QA mod
 ## 📁 Folder Structure
 
 ```
-├── data/
-│   ├── train.csv
-│   └── test.csv
-├── notebooks/
-│   └── qa_pipeline.ipynb
-├── model/
-│   ├── tokenizer/
-│   └── roberta-finetuned/
-├── results/
-│   └── evaluation_plots/
+│── train.csv
+│── test.csv
+├── QA_cleaned.ipynb
 ├── README.md
 ```
 
